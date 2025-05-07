@@ -1,0 +1,13 @@
+name: "cuda-116-pytorch-2-7-test"
+version: "0.1.0"
+description: "Test to compile pytorch 2.7 for cuda 116"
+keywords: "test"
+authors: "Christopher Lee"
+collaborators: "Laboratory for Advanced Visualization and Applications, Argonne National Laboratory"
+funding: "RAPID Award NSF 2346568"
+license: "MIT"
+homepage: "https://github.com/cleeuh/moondream-for-sage-node"
+source:
+  architectures:
+    - "linux/arm64"
+    - "linux/amd64"
