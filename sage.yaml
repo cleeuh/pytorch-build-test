@@ -6,7 +6,7 @@ authors: "Christopher Lee"
 collaborators: "Laboratory for Advanced Visualization and Applications, Argonne National Laboratory"
 funding: "RAPID Award NSF 2346568"
 license: "MIT"
-homepage: "https://github.com/cleeuh/moondream-for-sage-node"
+homepage: "https://github.com/cleeuh/pytorch-build-test"
 source:
   architectures:
     - "linux/arm64"
