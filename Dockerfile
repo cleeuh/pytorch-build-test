@@ -92,6 +92,6 @@ RUN python3 setup.py build && \
 WORKDIR /app
 COPY . .
 
-# ENTRYPOINT ["python3", "main.py"]
+ENTRYPOINT ["python3", "main.py"]
 # ENTRYPOINT ["python3", "test_samples.py"]
 # ENTRYPOINT ["bash -c 'sleep 100000'"]
