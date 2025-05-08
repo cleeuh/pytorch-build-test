@@ -9,5 +9,4 @@ license: "MIT"
 homepage: "https://github.com/cleeuh/pytorch-build-test"
 source:
   architectures:
-    - "linux/arm64"
     - "linux/amd64"
